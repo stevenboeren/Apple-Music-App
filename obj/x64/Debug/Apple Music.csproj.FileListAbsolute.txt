@@ -1,0 +1,18 @@
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Apple Music.exe.config
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Apple Music.exe
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Apple Music.pdb
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple Music.csproj.AssemblyReference.cache
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple_Music.Form1.resources
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple_Music.Properties.Resources.resources
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple Music.csproj.GenerateResource.cache
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple Music.csproj.CoreCompileInputs.cache
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple Music.csproj.CopyComplete
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple Music.exe
+C:\Users\sjcbo\Documents\repos\Apple Music\obj\x64\Debug\Apple Music.pdb
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\sjcbo\Documents\repos\Apple Music\bin\x64\Debug\Microsoft.Web.WebView2.Wpf.xml

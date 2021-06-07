@@ -1,0 +1,25 @@
+ public ChromiumWebBrowser browser;
+
+        public void InitBrowser()
+        {
+            Cef.Initialize(new CefSettings());
+            browser = new ChromiumWebBrowser("https://www.youtube.com/");
+            this.Controls.Add(browser);
+            browser.Dock = DockStyle.Fill;
+        }
+
+        public Form1()
+
+        {
+            InitializeComponent();
+
+            InitBrowser();
+
+        }
+        private void browser_LoadingStateChanged(object sender, LoadingStateChangedEventArgs e)
+        {
+            if (e.IsLoading == false)
+            {
+                browser.ExecuteScriptAsync("alert('All Resources Have Loaded');");
+            }
+        }
